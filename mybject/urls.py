@@ -19,6 +19,6 @@ from sign import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('index/',views.dashboard ),
+    path('index/',views.index),
 ]
 
