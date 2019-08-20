@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cefcd344-3828-4f3f-b74d-b959429fec54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mybject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mybject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="166">
+              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -116,8 +116,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="308" />
-    <option name="y" value="112" />
+    <option name="x" value="170" />
+    <option name="y" value="61" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -313,7 +313,7 @@
       <workItem from="1565923985469" duration="42000" />
       <workItem from="1565924254822" duration="1574000" />
       <workItem from="1566213184332" duration="146000" />
-      <workItem from="1566213334802" duration="8997000" />
+      <workItem from="1566213334802" duration="12323000" />
     </task>
     <task id="LOCAL-00001" summary="ADD html">
       <created>1564660636043</created>
@@ -399,16 +399,23 @@
       <option name="project" value="LOCAL" />
       <updated>1565007933615</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ADD html">
+      <created>1566280504842</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1566280504842</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42395000" />
+    <option name="totallyTimeSpent" value="45721000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="308" y="112" width="1400" height="1000" extended-state="0" />
+    <frame x="170" y="61" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2827688" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2827688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -417,7 +424,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.500821" side_tool="true" weight="0.2569956" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4493392" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4493392" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,7 +454,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="ADD html" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mybject$test.coverage" NAME="test Coverage Results" MODIFIED="1566216776693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/mybject$test.coverage" NAME="test Coverage Results" MODIFIED="1566283618295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
     <SUITE FILE_PATH="coverage/mybject$settings.coverage" NAME="settings Coverage Results" MODIFIED="1564660996691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mybject" />
     <SUITE FILE_PATH="coverage/mybject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1564986512238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -555,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="166">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
