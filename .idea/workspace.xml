@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cefcd344-3828-4f3f-b74d-b959429fec54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/testDb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mybject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mybject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mybject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sign/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dashboard.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +38,21 @@
         <entry file="file://$PROJECT_DIR$/mybject/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#631#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,75 +62,9 @@
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#84#93#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/testDb.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/bootstrap/css/dashboard.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybject/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="49" column="59" lean-forward="true" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-              <folding>
-                <element signature="e#308#317#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sign/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/dashboard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3195">
-              <caret line="232" column="21" lean-forward="true" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#ul#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#ul#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -133,8 +75,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -168,12 +110,14 @@
         <option value="$PROJECT_DIR$/mybject/urls.py" />
         <option value="$PROJECT_DIR$/sign/views.py" />
         <option value="$PROJECT_DIR$/templates/testDb.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+        <option value="$PROJECT_DIR$/.idea/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="508" />
-    <option name="y" value="73" />
+    <option name="x" value="308" />
+    <option name="y" value="112" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -184,13 +128,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mybject" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybject" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mybject" type="b2602c69:ProjectViewProjectNode" />
@@ -219,6 +167,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.testDb.html">
+  <component name="RunManager" selected="Python.test">
     <configuration name="dashboard.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mybject/templates/dashboard.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -313,8 +262,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mybject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="JavaScript Debug.testDb.html" />
         <item itemvalue="JavaScript Debug.dashboard.html" />
         <item itemvalue="Python.manage" />
@@ -334,7 +306,14 @@
       <updated>1564469493118</updated>
       <workItem from="1564469494733" duration="201000" />
       <workItem from="1564469699224" duration="2000" />
-      <workItem from="1564469732520" duration="30784000" />
+      <workItem from="1564469732520" duration="30944000" />
+      <workItem from="1565665189215" duration="70000" />
+      <workItem from="1565922423134" duration="399000" />
+      <workItem from="1565923936303" duration="20000" />
+      <workItem from="1565923985469" duration="42000" />
+      <workItem from="1565924254822" duration="1574000" />
+      <workItem from="1566213184332" duration="146000" />
+      <workItem from="1566213334802" duration="8997000" />
     </task>
     <task id="LOCAL-00001" summary="ADD html">
       <created>1564660636043</created>
@@ -413,16 +392,23 @@
       <option name="project" value="LOCAL" />
       <updated>1564975104795</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ADD html">
+      <created>1565007933613</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1565007933615</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30987000" />
+    <option name="totallyTimeSpent" value="42395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="508" y="73" width="1400" height="1000" extended-state="0" />
+    <frame x="308" y="112" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2827688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,7 +417,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.500821" side_tool="true" weight="0.2569956" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8259912" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4493392" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,6 +447,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="ADD html" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mybject$test.coverage" NAME="test Coverage Results" MODIFIED="1566216776693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
     <SUITE FILE_PATH="coverage/mybject$settings.coverage" NAME="settings Coverage Results" MODIFIED="1564660996691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mybject" />
     <SUITE FILE_PATH="coverage/mybject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1564986512238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -470,23 +457,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybject/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybject/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="49" column="59" lean-forward="true" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-          <folding>
-            <element signature="e#308#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/bootstrap/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -502,46 +472,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybject/urls.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#631#663#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#84#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/bootstrap/css/dashboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="1" lean-forward="true" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sign/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -549,19 +492,73 @@
     <entry file="file://$PROJECT_DIR$/templates/testDb.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+          <folding>
+            <element signature="e#308#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sign/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3195">
-          <caret line="232" column="21" lean-forward="true" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+        <state relative-caret-position="3180">
+          <caret line="231" column="33" selection-start-line="231" selection-start-column="33" selection-end-line="231" selection-end-column="33" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
