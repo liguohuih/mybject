@@ -40,7 +40,7 @@ i =  1
 for i in range(1000):
     url = "http://10.0.0.13:8083/game/gameNiuniuStart"
     par={
-        "jetton":"100"
+        "jetton":"1000"
     }
     h = {
         "sessionId":"5b5ae83794da",
